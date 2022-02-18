@@ -11,6 +11,7 @@
 		CD0B677727BF7FD8004BD995 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0B677627BF7FD8004BD995 /* ContentView.swift */; };
 		CD0B677927BF7FDB004BD995 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD0B677827BF7FDB004BD995 /* Assets.xcassets */; };
 		CD0B677C27BF7FDB004BD995 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD0B677B27BF7FDB004BD995 /* Preview Assets.xcassets */; };
+		CD0B678327BF857C004BD995 /* Botresponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0B678227BF857C004BD995 /* Botresponse.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		CD0B677627BF7FD8004BD995 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CD0B677827BF7FDB004BD995 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CD0B677B27BF7FDB004BD995 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CD0B678227BF857C004BD995 /* Botresponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Botresponse.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				CD0B677427BF7FD8004BD995 /* ChatBotApp.swift */,
 				CD0B677627BF7FD8004BD995 /* ContentView.swift */,
+				CD0B678227BF857C004BD995 /* Botresponse.swift */,
 				CD0B677827BF7FDB004BD995 /* Assets.xcassets */,
 				CD0B677A27BF7FDB004BD995 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD0B678327BF857C004BD995 /* Botresponse.swift in Sources */,
 				CD0B677727BF7FD8004BD995 /* ContentView.swift in Sources */,
 				CD0B677527BF7FD8004BD995 /* ChatBotApp.swift in Sources */,
 			);
